@@ -1,0 +1,50 @@
+<annotation>
+	<folder>AMANITA</folder>
+	<filename>Amanita (14).jpg</filename>
+	<path>C:\Users\Rejoyce\Desktop\jhon\MUSHROOM IMAGES\TRAIN\POISINOUS\AMANITA\Amanita (14).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>545</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>amanita_poisinous</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>24</xmin>
+			<ymin>246</ymin>
+			<xmax>163</xmax>
+			<ymax>501</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>amanita_poisinous</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>455</xmin>
+			<ymin>214</ymin>
+			<xmax>785</xmax>
+			<ymax>453</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>amanita_poisinous</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>174</xmin>
+			<ymin>54</ymin>
+			<xmax>441</xmax>
+			<ymax>258</ymax>
+		</bndbox>
+	</object>
+</annotation>

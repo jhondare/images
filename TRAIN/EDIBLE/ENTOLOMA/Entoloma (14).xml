@@ -1,0 +1,38 @@
+<annotation>
+	<folder>ENTOLOMA</folder>
+	<filename>Entoloma (14).jpg</filename>
+	<path>C:\Users\Rejoyce\Desktop\jhon\MUSHROOM IMAGES\TRAIN\EDIBLE\ENTOLOMA\Entoloma (14).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>799</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>entoloma_edible</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>290</xmin>
+			<ymin>166</ymin>
+			<xmax>566</xmax>
+			<ymax>310</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>entoloma_edible</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>503</xmin>
+			<ymin>84</ymin>
+			<xmax>739</xmax>
+			<ymax>243</ymax>
+		</bndbox>
+	</object>
+</annotation>

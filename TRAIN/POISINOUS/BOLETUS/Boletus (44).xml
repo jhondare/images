@@ -1,0 +1,26 @@
+<annotation>
+	<folder>BOLETUS</folder>
+	<filename>Boletus (44).jpeg</filename>
+	<path>C:\Users\Rejoyce\Desktop\jhon\MUSHROOM IMAGES\TRAIN\POISINOUS\BOLETUS\Boletus (44).jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>260</width>
+		<height>194</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>boletus_poisinous</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>33</xmin>
+			<ymin>24</ymin>
+			<xmax>212</xmax>
+			<ymax>139</ymax>
+		</bndbox>
+	</object>
+</annotation>
